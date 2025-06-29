@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Comments/Comments.iml" filepath="$PROJECT_DIR$/Comments/Comments.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Syntax/Java Syntax.iml" filepath="$PROJECT_DIR$/Java Syntax/Java Syntax.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Beginner.iml" filepath="$PROJECT_DIR$/Java-Beginner.iml" />
     </modules>
