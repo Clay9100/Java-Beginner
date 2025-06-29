@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello this lesson in java beginner syntax");
         System.out.printf("Hello my name is %s", "Muhammadsobir");
 
+
     }
 }
