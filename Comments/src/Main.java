@@ -6,6 +6,17 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         // Comments // /**/
 
+        // this is comment one line
+
+//        System.out.println("Hello World");
+
+        // /* */ this is comment more line
+
+        /* System.out.println("This is lesson Comments");
+        System.out.println("My name is Muhammadsobir");
+        System.out.println("My age is : 35");
+        System.out.println("I'm borthd in 1991 - year");*/
+
 
     }
 }
