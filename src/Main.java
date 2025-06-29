@@ -10,6 +10,9 @@ public class Main {
         int age = 35;
         System.out.printf("My age %d", age);
 
+        String job = "PDP University";
+        System.out.printf("My job %s", job);
+
 
 
     }
