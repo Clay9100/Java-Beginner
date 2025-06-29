@@ -1,6 +1,7 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
+
     public static void main(String[] args) {
 
         // Comments // /**/
@@ -15,6 +16,7 @@ public class Main {
         System.out.println("My name is Muhammadsobir");
         System.out.println("My age is : 35");
         System.out.println("I'm borthd in 1991 - year");*/
+
 
 
     }
