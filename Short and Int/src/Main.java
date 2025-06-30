@@ -20,11 +20,24 @@ public class Main {
 
         // int data type from -2,147,483,648 to 2,147,483,647
 
-        int number1 = 2235243;
+        /*int number1 = 2235243;
         int number2 = -2235243;
 
         System.out.println("number1: " + number1);
-        System.out.println("number2: " + number2);
+        System.out.println("number2: " + number2);*/
+
+        // long data type very-very long number
+
+        long l1 = System.currentTimeMillis();
+        long l2 = System.nanoTime();
+
+        System.out.println("Time millis: " + l1);
+        System.out.println("Time nanos: " + l2);
+
+
+
+
+
 
 
 
