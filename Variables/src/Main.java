@@ -21,6 +21,10 @@ public class Main {
         String job = "Java Developer";
         String firstName = "Turdaliyev";
 
+        System.out.printf("My name is %s!%n", name);
+        System.out.printf("My job is %s!%n", job);
+        System.out.printf("My first name is %s!%n", firstName);
+
 
     }
 }
