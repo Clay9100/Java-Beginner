@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         // This is lesson boolean date type
-        boolean isOpen = true;
+        /*boolean isOpen = true;
         boolean isClosed = false;
 
         System.out.println("Door is open: " + isOpen);
@@ -14,7 +14,14 @@ public class Main {
         System.out.println("Sunny is: " + sunny);
 
         boolean night = false;
-        System.out.println("Night is: " + night);
+        System.out.println("Night is: " + night);*/
+
+       /* int password = 1234;
+
+        boolean checkPassword = password == 1234;
+        System.out.println("Check password: " + checkPassword);*/
+
+
 
 
 
