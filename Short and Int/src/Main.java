@@ -7,10 +7,27 @@ public class Main {
 
         // short data type from 32767 to -32768
 
-        short sh1 = 3478;
+        /*short sh1 = 3478;
         short sh2 = -3478;
         System.out.println("sh1: " + sh1);
-        System.out.println("sh2: " + sh2);
+        System.out.println("sh2: " + sh2);*/
+
+        // error short
+
+        /*short sh1 = 32768;
+        short sh2 = -32769;*/
+        // This error data type full
+
+        // int data type from -2,147,483,648 to 2,147,483,647
+
+        int number1 = 2235243;
+        int number2 = -2235243;
+
+        System.out.println("number1: " + number1);
+        System.out.println("number2: " + number2);
+
+
+
 
 
 
