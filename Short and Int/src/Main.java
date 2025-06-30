@@ -5,6 +5,15 @@ public class Main {
 
        // This is lesson short and int data types
 
+        // short data type from 32767 to -32768
+
+        short sh1 = 3478;
+        short sh2 = -3478;
+        System.out.println("sh1: " + sh1);
+        System.out.println("sh2: " + sh2);
+
+
+
 
 
 
