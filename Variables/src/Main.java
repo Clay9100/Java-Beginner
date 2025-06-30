@@ -22,9 +22,5 @@ public class Main {
         String firstName = "Turdaliyev";
 
 
-
-
-
-
     }
 }
