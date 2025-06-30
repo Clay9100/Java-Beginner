@@ -17,13 +17,22 @@ public class Main {
         System.out.printf("Your input year is: %d\n", year);
         System.out.printf("Your input phone code is: %d\n", phoneCode);*/
 
-        String name = "Muhammadsobir";
+       /* String name = "Muhammadsobir";
         String job = "Java Developer";
         String firstName = "Turdaliyev";
 
         System.out.printf("My name is %s!%n", name);
         System.out.printf("My job is %s!%n", job);
-        System.out.printf("My first name is %s!%n", firstName);
+        System.out.printf("My first name is %s!%n", firstName);*/
+
+        String name = "Muhammadsobir";
+        int age = 35;
+        float height = 168.55f;
+
+        System.out.println("My name is " + name);
+        System.out.println("My age is " + age);
+        System.out.println("My height is " + height);
+
 
 
     }
