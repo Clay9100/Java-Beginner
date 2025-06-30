@@ -18,9 +18,12 @@ public class Main {
         System.out.println("I'm borthd in 1991 - year");*/
 
         // \n \t \b
-        System.out.println("Hello \nworld");
+        /*System.out.println("Hello \nworld");
         System.out.println("This is line \ttab");
-        System.out.println("This is line\b\b");
+        System.out.println("This is line\b\b");*/
+
+        String name = "Muhammadsobir";
+        System.out.println(name);
 
 
     }
