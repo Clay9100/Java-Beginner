@@ -5,6 +5,19 @@ public class Main {
 
        // This is lesson variables
 
+        // Variables
+
+        int number = 10;
+        int age = 35;
+        int year = 1991;
+        int phoneCode = 95;
+
+        System.out.printf("Your input number is: %d\n", number);
+        System.out.printf("Your input age is: %d\n", age);
+        System.out.printf("Your input year is: %d\n", year);
+        System.out.printf("Your input phone code is: %d\n", phoneCode);
+
+
 
     }
 }
