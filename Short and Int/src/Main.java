@@ -35,17 +35,5 @@ public class Main {
         System.out.println("Time nanos: " + l2);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
