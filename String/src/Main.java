@@ -5,6 +5,14 @@ public class Main {
 
        // String data type
 
+        String str = "Hello World";
+        String str2 = "Hello do you speak English";
+        String str3 = "Yes I'm";
+
+        System.out.println(str);
+        System.out.println(str2);
+        System.out.println(str3);
+
 
 
 
