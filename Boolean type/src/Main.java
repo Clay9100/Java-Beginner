@@ -16,10 +16,9 @@ public class Main {
         boolean night = false;
         System.out.println("Night is: " + night);*/
 
-       /* int password = 1234;
-
+        int password = 1234;
         boolean checkPassword = password == 1234;
-        System.out.println("Check password: " + checkPassword);*/
+        System.out.println("Check password: " + checkPassword);
 
 
 
