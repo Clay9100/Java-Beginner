@@ -20,8 +20,18 @@ public class Main {
         // byte km = 300;
         // byte m = -400;
 
+        // char data type
+        // char data type in one letter
 
+        char letter = 'A';
+        char symbol = '*';
+        char plus = '+';
+        char minus = '-';
 
+        System.out.println("letter: " + letter);
+        System.out.println("symbol: " + symbol);
+        System.out.println("plus: " + plus);
+        System.out.println("minus: " + minus);
 
 
     }
