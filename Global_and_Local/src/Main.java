@@ -3,9 +3,9 @@
 public class Main {
 
     // global variable
-    static int number = 23;
+    /*static int number = 23;
     static String word = "This is variable global";
-    static char lesser = '%';
+    static char lesser = '%';*/
 
     public static void main(String[] args) {
 
@@ -22,9 +22,11 @@ public class Main {
         System.out.println(name);
         System.out.println(l);*/
 
-        System.out.println(number);
+        /*System.out.println(number);
         System.out.println(lesser);
-        System.out.println(word);
+        System.out.println(word);*/
+
+        System.out.println("test");
 
 
     }
