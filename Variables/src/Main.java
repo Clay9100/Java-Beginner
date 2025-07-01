@@ -25,13 +25,23 @@ public class Main {
         System.out.printf("My job is %s!%n", job);
         System.out.printf("My first name is %s!%n", firstName);*/
 
-        String name = "Muhammadsobir";
+        /*String name = "Muhammadsobir";
         int age = 35;
         float height = 168.55f;
 
         System.out.println("My name is " + name);
         System.out.println("My age is " + age);
-        System.out.println("My height is " + height);
+        System.out.println("My height is " + height);*/
+
+        // Reassigning a value to a variable
+
+        int age  = 23;
+        System.out.println(age);
+        age = 24;
+
+        byte secund = 45;
+        secund = 50;
+        System.out.println(secund);
 
 
 
