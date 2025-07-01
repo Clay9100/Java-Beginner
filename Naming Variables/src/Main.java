@@ -5,5 +5,20 @@ public class Main {
 
        // This is lesson Naming variables
 
+        int n = 90;
+        //int n = 9; error
+
+        int age = 23;
+        String name = "Ali";
+        boolean isOpen = true;
+        float salary = 45.67f;
+
+        System.out.println(n);
+        System.out.println(age);
+        System.out.println(isOpen);
+        System.out.println(salary);
+        System.out.println(name);
+
+
     }
 }
