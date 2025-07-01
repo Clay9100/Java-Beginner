@@ -27,6 +27,7 @@ public class Main {
         System.out.println(word);*/
 
         System.out.println("test");
+        System.out.println("Change");
 
 
     }
