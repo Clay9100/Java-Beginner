@@ -4,7 +4,18 @@ public class Main {
     public static void main(String[] args) {
 
         // This is lesson Global and Local
-        System.out.println("This is lesson Global and Local");
+        //System.out.println("This is lesson Global and Local");
+
+        // Local Variable
+
+        int age = 9;
+        String name = "Axror";
+        long l = 12343234;
+
+        System.out.println(age);
+        System.out.println(name);
+        System.out.println(l);
+
 
     }
 }
