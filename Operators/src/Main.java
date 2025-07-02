@@ -109,14 +109,61 @@ public class Main {
         x %= 2;
         System.out.println(x);*/
 
+       // Comparison < > <= >= != ==
+
+
+        // ==
+
+        //System.out.println(5 == 6); // false
+
+       /* int x = 9;
+        int y = 8;
+        System.out.println(x == y); // false
+
+        System.out.println(5 == 5); // true*/
+
+        // >
+
+        /*System.out.println(5 > 3);// true
+
+        int x = 18;
+        int y = 15;
+        System.out.println(x > y); // true
+
+        int a = 9;
+        int b = 9;
+        System.out.println(a > b); // false
+
+        int c = 1, d = 3;
+        System.out.println(c > d); // false*/
+
+        // <
+
+        /*System.out.println(5 < 7); // true
+        int i = 23;
+        int y = 13;
+        System.out.println(i < y); // false*/
+
+        // >=
+
+        /*System.out.println(5 >= 9); // false
+
+        int a = 9, e = 2;
+        System.out.println(a >= e); // true
+
+        boolean check = 5 <= 5;
+        System.out.println(check); // true*/
+
+        // !=
+
+        System.out.println(5 != 9); // true
+
+        int a = 6, b = 2;
+        boolean check = a != b;
+        System.out.println(check);
 
 
 
-
-
-
-
-       // Comparison < > <= >= !=
 
        // Logic && | !
 
