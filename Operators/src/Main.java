@@ -179,15 +179,44 @@ public class Main {
         System.out.println((x > y && 7 < 10)); // !true -> false
 
 */
+        // &&
+
+        /*System.out.println(3 > 2 && 7 < 10); // true
+
+        int x = 9, y = 4;
+        System.out.println(y < 10 && x > 10); // false*/
+
+        // ||
+
+       /* System.out.println(5 > 2 || 7 < 4); // true
+
+        int x = 9, y = 12;
+        System.out.println(x < 10 || y < 10); // true
+        */
 
 
        // Increment k++
 
-        int x = 7;
+        /*int x = 7;
         System.out.println(x++); // x = 8 print => 7
-        System.out.println(x); // print => 8
+        System.out.println(x); // print => 8*/
+
+       /* int y = 8;
+        System.out.println(++y); // 8 + 1 = 9
+        System.out.println(y); // 9*/
 
        // Decrement --k
+
+       /* int a = 1;
+        System.out.println(a--); // a = 0 print => 1
+        System.out.println(a); // a => 0
+        */
+
+       /* int b = 3;
+
+        System.out.println(--b); // b - 1 => 2
+        System.out.println(b); // b => 2;*/
+
 
 
 
