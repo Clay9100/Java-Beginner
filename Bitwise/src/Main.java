@@ -52,8 +52,21 @@ public class Main {
 
         // Variable
 
+        // binary
         /*int x = 0b11100;
         System.out.println(x);*/
+
+        // decimal
+
+       /* int age = 35;
+        System.out.println(age);
+        */
+        // Hex
+
+        /*int x = 0x3A;
+        System.out.println(x);*/
+
+
 
 
 
