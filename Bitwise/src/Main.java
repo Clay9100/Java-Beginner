@@ -18,12 +18,20 @@ public class Main {
 
         // or(|)
 
-       /* System.out.println(5 | 7); // 0101 | 0111 => 7
+       /* System.out.println(5 | 7); // 0101 | 0111 => 0111
         int x  = 9, y = 8; // 1001 | 1000
         System.out.println(x | y); // 9
 
         int a = 17, b = 3; // 10001 | 00011
         System.out.println(a | b); // 19*/
+
+        // xor(^)
+
+        System.out.println(5 ^ 6); // 0101 ^ 110 => 0011
+
+        int x = 4, y = 3; // 0100 ^ 0011 => 0111
+        System.out.println(x ^ y); // 7
+
 
 
 
