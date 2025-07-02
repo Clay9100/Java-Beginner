@@ -27,10 +27,34 @@ public class Main {
 
         // xor(^)
 
-        System.out.println(5 ^ 6); // 0101 ^ 110 => 0011
+       /* System.out.println(5 ^ 6); // 0101 ^ 110 => 0011
 
         int x = 4, y = 3; // 0100 ^ 0011 => 0111
-        System.out.println(x ^ y); // 7
+        System.out.println(x ^ y); // 7*/
+
+        // left(>>);
+
+        /*System.out.println(5 >> 1); //  // 101 >> 1 => 010 = 2
+
+        int a = 32;
+        System.out.println(a >> 2); // 100000 => 001000 => 8
+
+        int x = 25;
+        System.out.println(x >> 1); // 11001 => 01100 => 12*/
+
+        // reight(<<)
+
+       /* System.out.println(3 << 1); // 011 => 110 = 6
+
+        int x = 7; // 111
+        System.out.println(x << 2); // 111 => 11100 => 28*/
+
+
+        // Variable
+
+        /*int x = 0b11100;
+        System.out.println(x);*/
+
 
 
 
