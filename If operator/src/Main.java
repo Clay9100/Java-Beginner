@@ -52,7 +52,7 @@ public class Main {
         }
         System.out.println("Big number: " + x);*/
 
-        int x = -1, y = -2, z = -3; // mid
+        /*int x = -1, y = -2, z = -3; // mid
 
         // big number
         int bigN = x;
@@ -79,7 +79,7 @@ public class Main {
         int summa2 = x + y + z;
 
         int mid = summa2 -  summa1;
-        System.out.println("mid = " + mid);
+        System.out.println("mid = " + mid);*/
 
 
 
