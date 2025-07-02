@@ -16,6 +16,15 @@ public class Main {
         int a = 8, b = 10; // a = 1000 & 1010 => 1000
         System.out.println(a & b); // 8*/
 
+        // or(|)
+
+       /* System.out.println(5 | 7); // 0101 | 0111 => 7
+        int x  = 9, y = 8; // 1001 | 1000
+        System.out.println(x | y); // 9
+
+        int a = 17, b = 3; // 10001 | 00011
+        System.out.println(a | b); // 19*/
+
 
 
     }
