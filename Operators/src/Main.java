@@ -11,7 +11,7 @@ public class Main {
 
         /*System.out.println(2 + 3);
 
-        int a = 1;
+        int a = 1 + 3 + 9;
         int b = 4;
         System.out.println(a + b);
 
@@ -49,7 +49,7 @@ public class Main {
 
         // %
 
-        System.out.println(5 % 7);
+       /* System.out.println(5 % 7);
         int a = 9;
         int b = 2;
         System.out.println(a % b);
@@ -58,12 +58,63 @@ public class Main {
         int y = 5;
 
         int mod = x % y;
-        System.out.println(mod);
+        System.out.println(mod);*/
 
 
 
 
-       // Assignments =,
+       // Assignments = += -= /= *= %=,
+
+        // =
+/*
+        int age = 9;
+        String name = "John";
+        String job = "Java Developer";
+        float weight = 175.45f;
+        System.out.println(age);*/
+
+        // +=
+
+        /*int x = 10;
+        //x = x + 5; // 10 + 5 = 15
+        x += 5;  // 10 += 5 = 15
+
+        System.out.println(x);*/
+
+        // */
+
+       /* int x = 3;
+        x = x * 7; // 3 * 7 = 21
+        x *= 7;   // 3 *= 7 = 21
+        System.out.println(x);*/
+
+        // /=
+
+        /*int x = 15;
+        x = x / 3; // 15 / 3 = 5
+        x /= 3;
+        System.out.println(x);*/
+
+        // -=
+
+       /* int x = 7;
+        x = x - 2; // 7 - 2 = 5
+        x -= 2;
+        System.out.println(x);*/
+
+        // %=
+
+        /*int x = 17;
+        //x = x % 2; // 17 % 2 = 1
+        x %= 2;
+        System.out.println(x);*/
+
+
+
+
+
+
+
 
        // Comparison < > <= >= !=
 
