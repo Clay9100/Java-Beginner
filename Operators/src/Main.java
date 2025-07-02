@@ -156,18 +156,36 @@ public class Main {
 
         // !=
 
-        System.out.println(5 != 9); // true
+       /* System.out.println(5 != 9); // true
 
         int a = 6, b = 2;
         boolean check = a != b;
-        System.out.println(check);
+        System.out.println(check);*/
 
 
 
 
-       // Logic && | !
+       // Logic && || !
+
+        // !
+
+       /* System.out.println(!true);
+
+        int a = 9, b = 3;
+        System.out.println(!(a > b)); // !(9 > 3) -> !true = false
+
+        int x = 89;
+        int y = 78;
+        System.out.println((x > y && 7 < 10)); // !true -> false
+
+*/
+
 
        // Increment k++
+
+        int x = 7;
+        System.out.println(x++); // x = 8 print => 7
+        System.out.println(x); // print => 8
 
        // Decrement --k
 
