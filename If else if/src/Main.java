@@ -31,6 +31,20 @@ public class Main {
             System.out.println("x is 0");
         }*/
 
+        // if else inner if
+
+        /*int x = 0;
+
+        if(x != 0){
+            if(x > 0 ){
+                System.out.println("x big 0 ");
+            }else {
+                System.out.println("x less 0");
+            }
+        }else{
+            System.out.println("x is 0");
+        }*/
+
 
     }
 }
