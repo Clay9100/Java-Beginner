@@ -33,10 +33,20 @@ public class Main {
 
         // double
 
-        /*for (double i = 0.0; i < 1.0;  i+= 0.1) {
+        /*for (double i = 0.0; i < 1.0; i+= 0.1) {
             System.out.println(i);
 
         }*/
+
+        // Array in for
+
+        /*int[] k = {1,2,3,4,5,6};
+
+        for (int i = 0; i < k.length; i++) {
+            System.out.println(k[i]);
+        }*/
+
+
 
 
     }
