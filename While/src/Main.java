@@ -30,7 +30,7 @@ public class Main {
 
         }*/
 
-        int n = -123;
+        /*int n = -123;
 
         int count = 0;
 
@@ -39,7 +39,17 @@ public class Main {
             n /= 10;
             count++;
         }
-        System.out.println(count);
+        System.out.println(count);*/
+
+        // Array in while
+
+        String []names = {"audi", "mazda", "chevrolet", "honda", "toyota"};
+
+        int i = 0;
+        while (i < names.length) {
+            System.out.println(names[i]);
+            i++;
+        }
 
 
 
