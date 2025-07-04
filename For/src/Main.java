@@ -27,6 +27,17 @@ public class Main {
 
         // float
 
+        /*for (float i = 0.0f; i < 1.0f; i += 0.1f) {
+            System.out.println(i);
+        }*/
+
+        // double
+
+        /*for (double i = 0.0; i < 1.0;  i+= 0.1) {
+            System.out.println(i);
+
+        }*/
+
 
     }
 }
