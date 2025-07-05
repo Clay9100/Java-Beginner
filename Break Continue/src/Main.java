@@ -27,7 +27,7 @@ public class Main {
 
         }*/
 
-        int n;
+        /*int n;
         Scanner input = new Scanner(System.in);
 
         do {
@@ -37,7 +37,30 @@ public class Main {
                 break;
             }
             System.out.println(n);
-        }while (true);
+        }while (true);*/
+
+        // continue
+
+       /* for (int i = 0; i < 10; i++) {
+
+            if(i % 2 == 0){
+                continue;
+            }
+            System.out.println(i);
+        }*/
+
+        int i = 1;
+
+        while (i <= 100) {
+
+            if(i % 3 == 0 || i % 5 == 0) {
+                i++;
+                continue;
+            }
+            System.out.println(i);
+            i++;
+
+        }
 
 
     }
