@@ -43,13 +43,13 @@ public class Main {
 
         // Array in while
 
-        String []names = {"audi", "mazda", "chevrolet", "honda", "toyota"};
+       /* String []names = {"audi", "mazda", "chevrolet", "honda", "toyota"};
 
         int i = 0;
         while (i < names.length) {
             System.out.println(names[i]);
             i++;
-        }
+        }*/
 
 
 
