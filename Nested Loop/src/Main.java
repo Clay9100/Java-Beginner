@@ -50,9 +50,7 @@ public class Main {
                 for (int second = 0; second < 60; second++) {
                     System.out.printf("%02d:%02d:%02d\n",hour,minute,second);
                 }
-
             }
-
         }
 
 
