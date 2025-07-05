@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
@@ -24,6 +26,18 @@ public class Main {
             n++;
 
         }*/
+
+        int n;
+        Scanner input = new Scanner(System.in);
+
+        do {
+            System.out.print("Enter n: ");
+            n = input.nextInt();
+            if (n > 10){
+                break;
+            }
+            System.out.println(n);
+        }while (true);
 
 
     }
