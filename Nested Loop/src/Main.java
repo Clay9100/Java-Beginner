@@ -34,7 +34,7 @@ public class Main {
 
         // while
 
-        int i = 0;
+        /*int i = 0;
         while (i < 5) {
             for (int j = 0; j < 5; j++) {
                 System.out.print(" " + i);
@@ -42,6 +42,17 @@ public class Main {
             System.out.println();
 
             i++;
+        }*/
+
+        // crate hour
+        for (int hour = 0; hour < 24; hour++) {
+            for (int minute = 0; minute < 60; minute++) {
+                for (int second = 0; second < 60; second++) {
+                    System.out.printf("%02d:%02d:%02d\n",hour,minute,second);
+                }
+
+            }
+
         }
 
 
