@@ -12,7 +12,13 @@ public class Main {
             i++;
         }
 */
-        int i = 0;
+       /* int i = 0;
+        do {
+            System.out.println(i);
+            i++;
+        }while(i<10);*/
+
+        int i = 20;
         do {
             System.out.println(i);
             i++;
