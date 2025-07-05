@@ -12,12 +12,22 @@ public class Main {
             System.out.println();
         }*/
 
-        for (int i = 0; i < 5; i++) {
+       /* for (int i = 0; i < 5; i++) {
             int j = 0;
             while (j < 5) {
                 System.out.print(" " + j);
                 j++;
             }
+            System.out.println();
+
+        }*/
+
+        for (int i = 0; i < 5; i++) {
+            int k = 5;
+            do {
+                System.out.print(" " + k);
+                k--;
+            }while (k > 0);
             System.out.println();
 
         }
