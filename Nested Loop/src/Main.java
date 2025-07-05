@@ -45,12 +45,27 @@ public class Main {
         }*/
 
         // crate hour
-        for (int hour = 0; hour < 24; hour++) {
+        /*for (int hour = 0; hour < 24; hour++) {
             for (int minute = 0; minute < 60; minute++) {
                 for (int second = 0; second < 60; second++) {
                     System.out.printf("%02d:%02d:%02d\n",hour,minute,second);
                 }
             }
+        }*/
+
+        /*
+        *
+        * *
+        * * *
+        * * * *
+        * * * * *
+         */
+
+        for (int i = 0; i < 5; i++) {
+            for (int j = 0; j <= i; j++) {
+                System.out.print(" * ");
+            }
+            System.out.println();
         }
 
 
