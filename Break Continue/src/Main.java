@@ -49,7 +49,7 @@ public class Main {
             System.out.println(i);
         }*/
 
-        int i = 1;
+        /*int i = 1;
 
         while (i <= 100) {
 
@@ -60,7 +60,7 @@ public class Main {
             System.out.println(i);
             i++;
 
-        }
+        }*/
 
 
     }
