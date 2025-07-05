@@ -22,7 +22,7 @@ public class Main {
 
         }*/
 
-        for (int i = 0; i < 5; i++) {
+       /* for (int i = 0; i < 5; i++) {
             int k = 5;
             do {
                 System.out.print(" " + k);
@@ -30,6 +30,18 @@ public class Main {
             }while (k > 0);
             System.out.println();
 
+        }*/
+
+        // while
+
+        int i = 0;
+        while (i < 5) {
+            for (int j = 0; j < 5; j++) {
+                System.out.print(" " + i);
+            }
+            System.out.println();
+
+            i++;
         }
 
 
