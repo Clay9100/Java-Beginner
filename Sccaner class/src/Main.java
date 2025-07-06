@@ -14,8 +14,19 @@ public class Main {
         System.out.println("Your input n = " + n);
 
         short s;
+        System.out.print("s: ");
         s = input.nextShort();
         System.out.println("Your input s = " + s);
+
+        int age;
+        System.out.print("age: ");
+        age = input.nextInt();
+        System.out.println("Your input age = " + age);
+
+        long time;
+        System.out.print("time: ");
+        time = input.nextLong();
+        System.out.println("Your input time = " + time);
 
 
     }
