@@ -31,17 +31,28 @@ public class Main {
 
         // float and double
 
-        Scanner in = new Scanner(System.in);
+        //Scanner in = new Scanner(System.in);
 
        /* float f;
         System.out.print("input f: ");
         f = in.nextFloat();
         System.out.print("your input n: " + f);*/
 
-        double d;
+       /* double d;
         System.out.print("d: ");
         d = in.nextDouble();
-        System.out.print("your input f: " + d);
+        System.out.print("your input f: " + d);*/
+
+        // String
+
+        /*Scanner sc = new Scanner(System.in);
+
+        String name;
+
+        System.out.print("Enter your name: ");
+        name = sc.nextLine();
+        System.out.println("name = " + name);*/
+
 
 
 
