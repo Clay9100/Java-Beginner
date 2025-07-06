@@ -6,27 +6,45 @@ public class Main {
     public static void main(String[] args) {
         // this is lesson Scanner class
 
-        byte n;
+       // Scanner input = new Scanner(System.in);
+       /* byte n;
 
-        Scanner input = new Scanner(System.in);
+
         System.out.print("n: ");
         n = input.nextByte();
         System.out.println("Your input n = " + n);
-
-        short s;
+*/
+       /* short s;
         System.out.print("s: ");
         s = input.nextShort();
-        System.out.println("Your input s = " + s);
-
+        System.out.println("Your input s = " + s);*/
+/*
         int age;
         System.out.print("age: ");
         age = input.nextInt();
-        System.out.println("Your input age = " + age);
+        System.out.println("Your input age = " + age);*/
 
-        long time;
+       /* long time;
         System.out.print("time: ");
         time = input.nextLong();
-        System.out.println("Your input time = " + time);
+        System.out.println("Your input time = " + time);*/
+
+        // float and double
+
+        Scanner in = new Scanner(System.in);
+
+       /* float f;
+        System.out.print("input f: ");
+        f = in.nextFloat();
+        System.out.print("your input n: " + f);*/
+
+        double d;
+        System.out.print("d: ");
+        d = in.nextDouble();
+        System.out.print("your input f: " + d);
+
+
+
 
 
     }
