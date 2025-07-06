@@ -53,6 +53,20 @@ public class Main {
         name = sc.nextLine();
         System.out.println("name = " + name);*/
 
+        // char
+
+       /* Scanner sc = new Scanner(System.in);
+
+        System.out.print("input letter: ");
+        char letter = sc.next().charAt(0);
+        System.out.println("letter = " + letter);*/
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Input boolean: ");
+        boolean flag = sc.nextBoolean();
+        System.out.println("flag = " + flag);
+
 
 
 
